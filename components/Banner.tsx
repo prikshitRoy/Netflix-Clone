@@ -1,8 +1,12 @@
-import React from 'react'
+import Imagea from "next/image"
 
-const Banner = () => {
+function Banner() {
   return (
-    <div>Banner</div>
+    <div>
+      {/* <div>
+        <Image/>
+      </div> */}
+    </div>
   )
 }
 
