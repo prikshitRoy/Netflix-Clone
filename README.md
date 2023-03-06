@@ -1,15 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Netflix Clone
+
+## Build: 
+- package manager: Yarn
+- Next.js & Tailwind
+    - Create Nextjs app with yarn use Type Script
+    - Install Tailwind for Next.js according to instruction on website
+- Install Heroicons Version V1: npm install @heroicons/react@v1
+- React Hooks
+
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
