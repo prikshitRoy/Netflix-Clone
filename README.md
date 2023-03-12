@@ -1,13 +1,16 @@
 # Netflix Clone
 
-## Build: 
+## Build:
+
 - package manager: Yarn
 - Next.js & Tailwind
-    - Create Nextjs app with yarn use Type Script
-    - Install Tailwind for Next.js according to instruction on website
+  - Create Nextjs app with yarn use Type Script
+  - Install Tailwind for Next.js according to instruction on website
+  - Install Heros Icon , React Icon
+  - Install Prettier - learn to use prettier
+  - textshadow package --> https://www.npmjs.com/package/tailwindcss-textshadow
 - Install Heroicons Version V1: npm install @heroicons/react@v1
 - React Hooks
-
 
 ## Getting Started
 

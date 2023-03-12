@@ -3,4 +3,14 @@ const nextConfig = {
   reactStrictMode: true,
 }
 
-module.exports = nextConfig
+module.exports = {
+  images: {
+    remotePatterns: [
+      {
+
+        hostname: 'image.tmdb.org',
+
+      },
+    ],
+  },
+}
