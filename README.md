@@ -4,11 +4,17 @@
 
 - package manager: Yarn
 - Next.js & Tailwind
+
   - Create Nextjs app with yarn use Type Script
   - Install Tailwind for Next.js according to instruction on website
   - Install Heros Icon , React Icon
-  - Install Prettier - learn to use prettier
-  - textshadow package --> https://www.npmjs.com/package/tailwindcss-textshadow
+    👉yarn add @heroicons/react@v1
+    👉yarn add react-icon
+  - Install Prettier - learn to use prettier ( devDependencies )
+  - textshadow package --> https://www.npmjs.com/package/tailwindcss-textshadow ( devDependencies )
+  - Tailwind Scroll-bar Hide --> https://bestofvue.com/repo/reslear-tailwind-scrollbar-hide ( devDependencies )
+    ↪️ [Hide Scrollbar in Tailwind css React js/Next js](https://www.youtube.com/watch?v=Q0tmQJbuFhk)
+
 - Install Heroicons Version V1: npm install @heroicons/react@v1
 - React Hooks
 
